@@ -10,8 +10,8 @@ This repository contains front-end projects built following the roadmap.sh front
 Click any of the images below to view the readme and live demo of the project.
 
 <p align="left">
-  <a href='#'>
-    <img width="48%" src="./assets/images/single-page-cv.png" alt="single page cv" />
+  <a href='https://tamalpakrasi.github.io/Roadmap.sh-Projects/Frontend%20Projects/01_CV_Format/'>
+    <img width="48%" src="./assets/images/Single-page-cv.png" alt="single page cv" />
   </a>
 </p>
 
